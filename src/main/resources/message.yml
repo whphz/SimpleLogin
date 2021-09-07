@@ -1,0 +1,14 @@
+before: '&1[&l登录插件&1]'
+welcome:
+  msg: '&3欢迎使用本插件! 作者：&2[&lwhp&2]'
+help:
+  - "&f------------------------------------"
+  - "      &aSimpleLogin &7by &ewhp"
+  - "       &a/simple与/sl同样适用           "
+  - "&f/sl register [密码]                     注册"
+  - "&f/sl login [密码]                        登录"
+  - "&f/sl reload                             重载插件"
+  - "&f/sl set password [旧密码] [新密码]       设置新密码"
+  - "&f/sl set nickname [昵称]                 设置新昵称"
+  - "&f/sl shownickname                       查看当前昵称"
+  - "&f------------------------------------"

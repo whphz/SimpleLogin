@@ -1,0 +1,4 @@
+dataSource:
+  tableName: playerinfo
+  DataSourceName: org.sqlite.SQLiteDataSource
+  DataBaseName: MCLoginDB

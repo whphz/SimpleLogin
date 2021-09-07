@@ -1,0 +1,16 @@
+name: SimpleLogin
+version: '${project.version}'
+main: com.whp.SimpleLogin.SimpleLogin
+api-version: 1.17
+commands:
+  simple:
+    description: This is a command to login to account
+    usage:
+  sl:
+    description: This is a command to login to account
+    usage:
+permissions:
+  simple-reload:
+    default: op
+  simple-setnickname:
+    default: op
